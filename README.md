@@ -1,3 +1,12 @@
+# Hello, I'm Rahman Fahim
+**A passionate Software Engineer || Interested in web development, PHP & databases || Learning and building projects step by step**
+
+Email Me 👉 ✉️ **rahmannfahim001@gmail.com** For Collaboration/Project or Anything Else.
+
+<!-- Snake Game Repo View -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rahmannfahim) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahmann_fahim) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahmannfahim001@gmail.com) 
@@ -18,4 +27,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=rahmann-fahim&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
