@@ -1,5 +1,5 @@
 # Hello, I'm Rahman Fahim
-**A passionate Software Engineer || Interested in web development, PHP & databases || Learning and building projects step by step**
+**A passionate Software Engineer || Expert in SQL,PL/SQL in database & Web developer || Expert in Networking configaration and building projects step by step**
 
 Email Me 👉 ✉️ **rahmannfahim001@gmail.com** For Collaboration/Project or Anything Else.
 
