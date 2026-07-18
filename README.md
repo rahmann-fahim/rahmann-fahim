@@ -1,5 +1,15 @@
-# Hello, I'm Rahman Fahim
-**A passionate Software Engineer | Hybrid Developer | PHP • Next.js • Python • MySQL • PL/SQL • SRS • Software Testing • Git & GitHub**
+# Hello, I'm Rahman Fahim🤵🏻
+**A passionate Software Engineer**🧑🏻‍💻🛠️ 
+
+**Technical Skills:** Hybrid Developer, Next.js, C++, Java, Python, PHP, JavaScript, HTML5, CSS3,
+Bootstrap, MySQL, PL/SQL, SDLC, Software Requirements Specification (SRS), UML Diagrams,
+Manual Testing, Automation Testing (Selenium WebDriver), Git, GitHub, Linux, Docker (Basic),
+Kubernetes (Basic), Networking (Basic), Cloud Computing Fundamentals, Risk Assessment, Risk
+Analysis, Business Process Analysis, Documentation & Reporting, Microsoft Word, Microsoft Excel,
+Microsoft PowerPoint.
+
+**Soft Skills:** Communication Skills, Analytical Thinking, Problem Solving, Critical Thinking, Teamwork
+& Collaboration, Leadership, Time Management, Adaptability, Decision Making, Quick Learning.
 
 Email Me 👉 ✉️ **rahmannfahim001@gmail.com** For Collaboration/Project or Anything Else.
 
