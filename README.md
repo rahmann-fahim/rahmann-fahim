@@ -1,12 +1,21 @@
 # Hello, I'm Rahman Fahim🤵🏻
 **A passionate Software Engineer**🧑🏻‍💻🛠️ 
 
-**Technical Skills:** Hybrid Developer, Next.js, C++, Java, Python, PHP, JavaScript, HTML5, CSS3,
-Bootstrap, MySQL, PL/SQL, SDLC, Software Requirements Specification (SRS), UML Diagrams,
-Manual Testing, Automation Testing (Selenium WebDriver), Git, GitHub, Linux, Docker (Basic),
-Kubernetes (Basic), Networking (Basic), Cloud Computing Fundamentals, Risk Assessment, Risk
-Analysis, Business Process Analysis, Documentation & Reporting, Microsoft Word, Microsoft Excel,
-Microsoft PowerPoint.
+**Technical Skills:**
+
+**Software Testing:** Manual Testing, Functional Testing, Test Case Design & Execution, Test Scenario Design, Regression Testing, Retesting, Smoke Testing, Sanity Testing, Bug Reporting, Defect Identification, SDLC, STLC
+
+**API Testing:** REST API Testing, Postman, HTTP Methods (GET, POST, PUT, PATCH, DELETE), HTTP Status Codes, JSON, Request & Response Validation, Query Parameters, Path Parameters, Headers, Content-Type, Bearer Token Authentication
+
+**Automation Testing:** Python, Selenium WebDriver, ChromeDriver, Automated Functional Testing
+
+**Database & Development:** MySQL, PL/SQL, Python, PHP, JavaScript, Java, C++, HTML5, CSS3
+
+**Software Engineering:** Agile/Scrum Fundamentals, Software Requirements Specification (SRS), UML Diagrams, Software Documentation
+
+**Tools & Platforms:** Git, GitHub, Visual Studio Code, Linux, Docker (Basic)
+
+**Other:** Networking (Basic)
 
 **Soft Skills:** Communication Skills, Analytical Thinking, Problem Solving, Critical Thinking, Teamwork
 & Collaboration, Leadership, Time Management, Adaptability, Decision Making, Quick Learning.
