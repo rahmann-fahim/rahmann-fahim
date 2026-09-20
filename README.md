@@ -1,5 +1,5 @@
 # Hello, I'm Rahman Fahim🤵🏻
-**A passionate Software Engineer**🧑🏻‍💻🛠️ 
+**Software Quality Assurance Intern at eGeneration PLC**🧑🏻‍💻🛠️ 
 
 **Technical Skills:**
 
@@ -7,7 +7,7 @@
 
 **API Testing:** REST API Testing, Postman, HTTP Methods (GET, POST, PUT, PATCH, DELETE), HTTP Status Codes, JSON, Request & Response Validation, Query Parameters, Path Parameters, Headers, Content-Type, Bearer Token Authentication
 
-**Automation Testing:** Python, Selenium WebDriver, ChromeDriver, Automated Functional Testing
+**Automation Testing:**  Playwright using Java(Both UI & API), Selenium using Python, ChromeDriver, Automated Functional Testing
 
 **Database & Development:** MySQL, PL/SQL, Python, PHP, JavaScript, Java, C++, HTML5, CSS3
 
